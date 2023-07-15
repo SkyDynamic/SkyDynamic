@@ -266,7 +266,7 @@ ${topStar5}
     newContent = newContent.replace(
       gc('FOOTER'),
       m`
-    <p align="center">此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！
+    <p align="center">此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！
     <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b>
     </br>
     刷新于：${now.toLocaleString(undefined, {
