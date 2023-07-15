@@ -6,7 +6,7 @@
 
 ![meowmeowmeow](https://raw.githubusercontent.com/SkyDynamic/SkyDynamic/main/assets/github-contribution-grid-snake.svg)
 
-Hello ~ I am SkyDynamic, a student from ![USTB](https://www.ustb.edu.cn/) and a full time developer(maybe?). Nice to meet you!
+Hello ~ I am SkyDynamic, a student from [USTB](https://www.ustb.edu.cn/) and a full time developer(maybe?). Nice to meet you!
 
 > Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more. (/≧▽≦)/ (from MoYoez)
 
