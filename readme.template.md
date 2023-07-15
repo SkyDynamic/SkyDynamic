@@ -3,9 +3,9 @@
 ![闲鱼喵喵 莉莉亚.png](https://s2.loli.net/2023/07/15/fBkF9ZoKgHDszUN.png)
 
 > <u>*I always AFK, not accessible to code for doing something I'm interested in or to fix bugs:p*</u>
-<!--
+
 ![meowmeowmeow](https://raw.githubusercontent.com/SkyDynamic/SkyDynamic/main/assets/github-contribution-grid-snake.svg)
--->
+
 Hello ~ I am SkyDynamic, a student from [USTB](https://www.ustb.edu.cn/) and a full time developer(maybe?). Nice to meet you!
 
 > Always try to be pleasant and not be harsh all the time, perhaps I wanted to meet more people and learn more. (/≧▽≦)/ (from MoYoez)
