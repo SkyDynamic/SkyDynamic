@@ -9,6 +9,24 @@ on:
   workflow_dispatch:
 
 jobs:
+  generated:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
+
   build:
     runs-on: ubuntu-latest
 
@@ -41,9 +59,6 @@ jobs:
       - name: Build project
         run: |
           npm run build
-
-      - name: generate-github-profile-3d-contrib
-        uses: ./.github/workflows/profile-3d.yml
 
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
