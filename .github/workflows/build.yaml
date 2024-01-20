@@ -22,6 +22,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
+
       - name: Cache pnpm modules
         uses: actions/cache@v2
         env:
@@ -36,15 +37,14 @@ jobs:
         with:
           version: 6.0.2
           run_install: true
+
       - name: Build project
         run: |
           npm run build
-      - name: generate github-contribution-grid-snake.svg
-        uses: aelassas/snk/svg-only@main
-        with:
-          github_user_name: "SkyDynamic"
-          outputs: |
-            assets/github-contribution-grid-snake.svg
+
+      - name: generate-github-profile-3d-contrib
+        uses: ./.github/workflows/profile-3d.yml
+
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
