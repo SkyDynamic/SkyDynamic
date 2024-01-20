@@ -1,7 +1,7 @@
 {
-  "name": "MoeMagicMango",
+  "name": "SkyDynamic",
   "private": true,
-  "description": "MoeMagicMango's profile",
+  "description": "SkyDynamic's profile",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev index.ts",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MoYoez/moyoez.git"
+    "url": "git+https://github.com/SkyDynamic/SkyDynamic.git"
   },
   "keywords": [],
   "author": "Cinnamoroll-Rabbit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MoYoez/moyoez/issues"
+    "url": "https://github.com/SkyDynamic/SkyDynamic/issues"
   },
-  "homepage": "https://github.com/MoYoez/moyoez#readme",
+  "homepage": "https://github.com/SkyDynamic/moyoez#readme",
   "dependencies": {
     "@mx-space/api-client": "0.10.6",
     "@types/html-minifier": "4.0.1",
