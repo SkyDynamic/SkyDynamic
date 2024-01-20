@@ -4,7 +4,7 @@
 
 > <u>*I always AFK, not accessible to code for doing something I'm interested in or to fix bugs:p*</u>
 
-![meowmeowmeow](https://raw.githubusercontent.com/SkyDynamic/SkyDynamic/main/assets/github-contribution-grid-snake.svg)
+![meowmeowmeow](https://raw.githubusercontent.com/SkyDynamic/SkyDynamic/main/profile-3d-contrib/profile-night-green.svg)
 
 Hello ~ I am SkyDynamic, a student from [USTB](https://www.ustb.edu.cn/) and a full time developer(maybe?). Nice to meet you!
 
