@@ -54,7 +54,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Hex-Dragon/PCL2>Hex-Dragon/PCL2</a><p>Plain Craft Launcher（我的世界启动器 PCL）的源代码，为支持社区研究而公开。</p></li><li><a href=https://github.com/DancingSnow0517/StarRail-gacha>DancingSnow0517/StarRail-gacha</a></li><li><a href=https://github.com/Andrews54757/itemscroller-crafting-fix>Andrews54757/itemscroller-crafting-fix</a><p>Modified version of Masa's itemscroller mod that fixes crafting in 1.17.1 (and adds crafting toggle ability)</p></li><li><a href=https://github.com/IkutoJyu/Pixiv-Illustration-Collection-Backend>IkutoJyu/Pixiv-Illustration-Collection-Backend</a><p>提供有限的pixiv排行查看与免费高级会员(热门排序)搜索的站点</p></li><li><a href=https://github.com/dragonwell-project/dragonwell17>dragonwell-project/dragonwell17</a><p>Alibaba Dragonwell17 JDK</p></li></ul>
+<ul><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/Hex-Dragon/PCL2>Hex-Dragon/PCL2</a><p>Plain Craft Launcher（我的世界启动器 PCL）的源代码，为支持社区研究而公开。</p></li><li><a href=https://github.com/DoodleBears/blivechat>DoodleBears/blivechat</a><p>用于OBS的仿YouTube风格的bilibili直播评论栏</p></li><li><a href=https://github.com/kaniol-lck/modmanager>kaniol-lck/modmanager</a><p>A Qt-based mod manager for minecraft.</p></li><li><a href=https://github.com/DancingSnow0517/StarRail-gacha>DancingSnow0517/StarRail-gacha</a></li></ul>
 
 **Can you find me?**
 
@@ -65,4 +65,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：3/8/24, 12:15 AM<br>下一次刷新：3/8/24, 4:15 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：3/8/24, 4:12 AM<br>下一次刷新：3/8/24, 8:12 AM</p>
