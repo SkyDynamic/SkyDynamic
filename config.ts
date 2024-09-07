@@ -1,10 +1,8 @@
 export const opensource = {
   active: [
     //'',
-    'SkyDynamic/QuickBackupM-Fabric',
-    'SkyDynamic/nonebot-plugin-arcaeabot',
-    'SkyDynamic/SkyDynamic-Carpet-Addition',
-    'KookBot-Akyra/AkyraBot',
+    'QuickBackupMultiMod-Dev/QuickBackupM-Fabric',
+    'SkyDynamic/MaiProber-Multiplatform',
   ],
   toys: {
     limit: 3,
