@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/luoyily/MoeTTS>luoyily/MoeTTS</a><p>Speech synthesis model /inference GUI repo for galgame characters based on Tacotron2, Hifigan, VITS and Diff-svc</p></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li><li><a href=https://github.com/DoodleBears/blivechat>DoodleBears/blivechat</a><p>用于OBS的仿YouTube风格的bilibili直播评论栏</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/Fallen-Breath/litematica-server-paster>Fallen-Breath/litematica-server-paster</a><p>Let Litematica be able to paste tile entity data of block / entity data in a server</p></li></ul>
+<ul><li><a href=https://github.com/luoyily/MoeTTS>luoyily/MoeTTS</a><p>Speech synthesis model /inference GUI repo for galgame characters based on Tacotron2, Hifigan, VITS and Diff-svc</p></li><li><a href=https://github.com/Fallen-Breath/litematica-server-paster>Fallen-Breath/litematica-server-paster</a><p>Let Litematica be able to paste tile entity data of block / entity data in a server</p></li><li><a href=https://github.com/DoodleBears/blivechat>DoodleBears/blivechat</a><p>用于OBS的仿YouTube风格的bilibili直播评论栏</p></li><li><a href=https://github.com/Scighost/Starward>Scighost/Starward</a><p>Game Launcher for miHoYo - 米家游戏启动器</p></li><li><a href=https://github.com/QuickBackupMultiMod-Dev/QuickBackupM-Fabric>QuickBackupMultiMod-Dev/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/27/24, 9:20 AM<br>下一次刷新：10/27/24, 1:20 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/27/24, 12:19 PM<br>下一次刷新：10/27/24, 4:19 PM</p>
