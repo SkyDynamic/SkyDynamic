@@ -2,7 +2,7 @@ export const opensource = {
   active: [
     //'',
     'QuickBackupMultiMod-Dev/QuickBackupM-Fabric',
-    'SkyDynamic/MaiProber-Multiplatform',
+    'SkyDynamic/MaiProberPlus',
   ],
   toys: {
     limit: 3,
