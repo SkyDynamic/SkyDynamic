@@ -46,7 +46,7 @@ Hello ~ I am SkyDynamic, a student from [USTB](https://www.ustb.edu.cn/) and a f
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FabricMC/fabric target=_blank><b>FabricMC/fabric</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FabricMC/fabric?style=flat-square&labelColor=343b41"></td><td>11/4/2018</td><td>12/12/2024</td></tr><tr><td><a href=https://github.com/nonebot/nonebot2 target=_blank><b>nonebot/nonebot2</b></a> <a href=https://nonebot.dev target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&labelColor=343b41"></td><td>8/23/2020</td><td>12/13/2024</td></tr><tr><td><a href=https://github.com/MCDReforged/MCDReforged target=_blank><b>MCDReforged/MCDReforged</b></a> <a href=https://mcdreforged.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MCDReforged/MCDReforged?style=flat-square&labelColor=343b41"></td><td>3/31/2020</td><td>12/9/2024</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/nonebot/nonebot2 target=_blank><b>nonebot/nonebot2</b></a> <a href=https://nonebot.dev target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&labelColor=343b41"></td><td>8/23/2020</td><td>12/13/2024</td></tr><tr><td><a href=https://github.com/MCDReforged/MCDReforged target=_blank><b>MCDReforged/MCDReforged</b></a> <a href=https://mcdreforged.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MCDReforged/MCDReforged?style=flat-square&labelColor=343b41"></td><td>3/31/2020</td><td>12/9/2024</td></tr><tr><td><a href=https://github.com/FabricMC/fabric target=_blank><b>FabricMC/fabric</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FabricMC/fabric?style=flat-square&labelColor=343b41"></td><td>11/4/2018</td><td>12/12/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/QuickBackupMultiMod-Dev/QuickBackupM-Fabric>QuickBackupMultiMod-Dev/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li><li><a href=https://github.com/Scighost/Starward>Scighost/Starward</a><p>Game Launcher for miHoYo - 米家游戏启动器</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/luoyily/MoeTTS>luoyily/MoeTTS</a><p>Speech synthesis model /inference GUI repo for galgame characters based on Tacotron2, Hifigan, VITS and Diff-svc</p></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li></ul>
+<ul><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/kaniol-lck/modmanager>kaniol-lck/modmanager</a><p>A Qt-based mod manager for minecraft.</p></li><li><a href=https://github.com/OmixVisualization/qtjambi>OmixVisualization/qtjambi</a><p>QtJambi is a wrapper for using Qt in Java.</p></li><li><a href=https://github.com/Andrews54757/itemscroller-crafting-fix>Andrews54757/itemscroller-crafting-fix</a><p>Modified version of Masa's itemscroller mod that fixes crafting in 1.17.1 (and adds crafting toggle ability)</p></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：12/14/24, 4:19 AM<br>下一次刷新：12/14/24, 8:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：12/14/24, 9:19 AM<br>下一次刷新：12/14/24, 1:19 PM</p>
