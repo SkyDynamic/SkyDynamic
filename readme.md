@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/kaniol-lck/modmanager>kaniol-lck/modmanager</a><p>A Qt-based mod manager for minecraft.</p></li><li><a href=https://github.com/Fallen-Breath/litematica-server-paster>Fallen-Breath/litematica-server-paster</a><p>Let Litematica be able to paste tile entity data of block / entity data in a server</p></li><li><a href=https://github.com/Scighost/Starward>Scighost/Starward</a><p>Game Launcher for miHoYo - 米家游戏启动器</p></li><li><a href=https://github.com/DancingSnow0517/StarRail-gacha>DancingSnow0517/StarRail-gacha</a></li><li><a href=https://github.com/Andrews54757/itemscroller-crafting-fix>Andrews54757/itemscroller-crafting-fix</a><p>Modified version of Masa's itemscroller mod that fixes crafting in 1.17.1 (and adds crafting toggle ability)</p></li></ul>
+<ul><li><a href=https://github.com/DoodleBears/blivechat>DoodleBears/blivechat</a><p>用于OBS的仿YouTube风格的bilibili直播评论栏</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/Hex-Dragon/PCL2>Hex-Dragon/PCL2</a><p>Plain Craft Launcher（我的世界启动器 PCL）的源代码，为支持社区研究而公开。</p></li><li><a href=https://github.com/Scighost/Starward>Scighost/Starward</a><p>Game Launcher for miHoYo - 米家游戏启动器</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：1/16/25, 4:16 AM<br>下一次刷新：1/16/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：1/16/25, 9:13 AM<br>下一次刷新：1/16/25, 1:13 PM</p>
