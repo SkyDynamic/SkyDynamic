@@ -46,7 +46,7 @@ Hello ~ I am SkyDynamic, a student from [USTB](https://www.ustb.edu.cn/) and a f
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/MCDReforged/MCDReforged target=_blank><b>MCDReforged/MCDReforged</b></a> <a href=https://mcdreforged.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MCDReforged/MCDReforged?style=flat-square&labelColor=343b41"></td><td>3/31/2020</td><td>2/12/2025</td></tr><tr><td><a href=https://github.com/FabricMC/fabric target=_blank><b>FabricMC/fabric</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FabricMC/fabric?style=flat-square&labelColor=343b41"></td><td>11/4/2018</td><td>2/11/2025</td></tr><tr><td><a href=https://github.com/nonebot/nonebot2 target=_blank><b>nonebot/nonebot2</b></a> <a href=https://nonebot.dev target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&labelColor=343b41"></td><td>8/23/2020</td><td>2/12/2025</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/nonebot/nonebot2 target=_blank><b>nonebot/nonebot2</b></a> <a href=https://nonebot.dev target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&labelColor=343b41"></td><td>8/23/2020</td><td>2/12/2025</td></tr><tr><td><a href=https://github.com/MCDReforged/MCDReforged target=_blank><b>MCDReforged/MCDReforged</b></a> <a href=https://mcdreforged.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MCDReforged/MCDReforged?style=flat-square&labelColor=343b41"></td><td>3/31/2020</td><td>2/12/2025</td></tr><tr><td><a href=https://github.com/FabricMC/fabric target=_blank><b>FabricMC/fabric</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FabricMC/fabric?style=flat-square&labelColor=343b41"></td><td>11/4/2018</td><td>2/13/2025</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Hex-Dragon/PCL2>Hex-Dragon/PCL2</a><p>Minecraft 启动器 Plain Craft Launcher（PCL）。</p></li><li><a href=https://github.com/DoodleBears/blivechat>DoodleBears/blivechat</a><p>用于OBS的仿YouTube风格的bilibili直播评论栏</p></li><li><a href=https://github.com/inttter/md-badges>inttter/md-badges</a><p>An extensive list of Shields.io badges.</p></li><li><a href=https://github.com/QuickBackupMultiMod-Dev/QuickBackupM-Fabric>QuickBackupMultiMod-Dev/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li><li><a href=https://github.com/Fallen-Breath/litematica-server-paster>Fallen-Breath/litematica-server-paster</a><p>Let Litematica be able to paste tile entity data of block / entity data in a server</p></li></ul>
+<ul><li><a href=https://github.com/DancingSnow0517/StarRail-gacha>DancingSnow0517/StarRail-gacha</a></li><li><a href=https://github.com/luoyily/MoeTTS>luoyily/MoeTTS</a><p>Speech synthesis model /inference GUI repo for galgame characters based on Tacotron2, Hifigan, VITS and Diff-svc</p></li><li><a href=https://github.com/Fallen-Breath/litematica-server-paster>Fallen-Breath/litematica-server-paster</a><p>Let Litematica be able to paste tile entity data of block / entity data in a server</p></li><li><a href=https://github.com/inttter/md-badges>inttter/md-badges</a><p>An extensive list of Shields.io badges.</p></li><li><a href=https://github.com/Scighost/Starward>Scighost/Starward</a><p>Game Launcher for miHoYo - 米家游戏启动器</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：2/14/25, 12:21 AM<br>下一次刷新：2/14/25, 4:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：2/14/25, 4:17 AM<br>下一次刷新：2/14/25, 8:17 AM</p>
