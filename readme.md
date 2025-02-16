@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li><li><a href=https://github.com/inttter/md-badges>inttter/md-badges</a><p>An extensive list of Shields.io badges.</p></li><li><a href=https://github.com/exaloop/codon>exaloop/codon</a><p>A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support</p></li><li><a href=https://github.com/DancingSnow0517/StarRail-gacha>DancingSnow0517/StarRail-gacha</a></li><li><a href=https://github.com/Hex-Dragon/PCL2>Hex-Dragon/PCL2</a><p>Minecraft 启动器 Plain Craft Launcher（PCL）。</p></li></ul>
+<ul><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/OmixVisualization/qtjambi>OmixVisualization/qtjambi</a><p>QtJambi is a wrapper for using Qt in Java.</p></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li><li><a href=https://github.com/inttter/md-badges>inttter/md-badges</a><p>An extensive list of Shields.io badges.</p></li><li><a href=https://github.com/DoodleBears/blivechat>DoodleBears/blivechat</a><p>用于OBS的仿YouTube风格的bilibili直播评论栏</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：2/16/25, 8:31 PM<br>下一次刷新：2/17/25, 12:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：2/17/25, 12:17 AM<br>下一次刷新：2/17/25, 4:17 AM</p>
