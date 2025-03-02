@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li><li><a href=https://github.com/Scighost/Starward>Scighost/Starward</a><p>Game Launcher for miHoYo - 米家游戏启动器</p></li><li><a href=https://github.com/QuickBackupMultiMod-Dev/QuickBackupM-Fabric>QuickBackupMultiMod-Dev/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li><li><a href=https://github.com/Andrews54757/itemscroller-crafting-fix>Andrews54757/itemscroller-crafting-fix</a><p>Modified version of Masa's itemscroller mod that fixes crafting in 1.17.1 (and adds crafting toggle ability)</p></li><li><a href=https://github.com/kaniol-lck/modmanager>kaniol-lck/modmanager</a><p>A Qt-based mod manager for minecraft.</p></li></ul>
+<ul><li><a href=https://github.com/QuickBackupMultiMod-Dev/QuickBackupM-Fabric>QuickBackupMultiMod-Dev/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li><li><a href=https://github.com/exaloop/codon>exaloop/codon</a><p>A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support</p></li><li><a href=https://github.com/kaniol-lck/modmanager>kaniol-lck/modmanager</a><p>A Qt-based mod manager for minecraft.</p></li><li><a href=https://github.com/Hex-Dragon/PCL2>Hex-Dragon/PCL2</a><p>Minecraft 启动器 Plain Craft Launcher（PCL）。</p></li><li><a href=https://github.com/Fallen-Breath/litematica-server-paster>Fallen-Breath/litematica-server-paster</a><p>Let Litematica be able to paste tile entity data of block / entity data in a server</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：3/2/25, 4:16 AM<br>下一次刷新：3/2/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：3/2/25, 9:21 AM<br>下一次刷新：3/2/25, 1:21 PM</p>
