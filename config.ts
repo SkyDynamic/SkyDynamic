@@ -1,8 +1,8 @@
 export const opensource = {
   active: [
     //'',
-    'QuickBackupMultiMod-Dev/QuickBackupM-Fabric',
-    'SkyDynamic/MaiProberPlus',
+    'QuickBackupMultiMod-Dev/QuickBackupM-Reforged',
+    'SkyDynamic/MaiDataViewer',
   ],
   toys: {
     limit: 3,
