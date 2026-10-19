@@ -46,7 +46,7 @@ Hello ~ I am SkyDynamic. A full time developer(maybe?). Nice to meet you!
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/MCDReforged/MCDReforged target=_blank><b>MCDReforged/MCDReforged</b></a> <a href=https://mcdreforged.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MCDReforged/MCDReforged?style=flat-square&labelColor=343b41"></td><td>3/31/2020</td><td>10/18/2026</td></tr><tr><td><a href=https://github.com/nonebot/nonebot2 target=_blank><b>nonebot/nonebot2</b></a> <a href=https://nonebot.dev target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&labelColor=343b41"></td><td>8/23/2020</td><td>10/18/2026</td></tr><tr><td><a href=https://github.com/FabricMC/fabric-api target=_blank><b>FabricMC/fabric-api</b></a> <a href=https://fabricmc.net/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FabricMC/fabric-api?style=flat-square&labelColor=343b41"></td><td>11/4/2018</td><td>10/19/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/nonebot/nonebot2 target=_blank><b>nonebot/nonebot2</b></a> <a href=https://nonebot.dev target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&labelColor=343b41"></td><td>8/23/2020</td><td>10/18/2026</td></tr><tr><td><a href=https://github.com/MCDReforged/MCDReforged target=_blank><b>MCDReforged/MCDReforged</b></a> <a href=https://mcdreforged.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MCDReforged/MCDReforged?style=flat-square&labelColor=343b41"></td><td>3/31/2020</td><td>10/19/2026</td></tr><tr><td><a href=https://github.com/FabricMC/fabric-api target=_blank><b>FabricMC/fabric-api</b></a> <a href=https://fabricmc.net/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FabricMC/fabric-api?style=flat-square&labelColor=343b41"></td><td>11/4/2018</td><td>10/19/2026</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/zanjie1999/meDisplay>zanjie1999/meDisplay</a><p>使用任何设备(浏览器)作为mac的副屏(随航) 将Android平板用作Mac的第二台显示器 还能在Win和Linux镜像屏幕</p></li><li><a href=https://github.com/Meloong-Git/PCL>Meloong-Git/PCL</a><p>Minecraft 启动器 Plain Craft Launcher（PCL）。</p></li><li><a href=https://github.com/DancingSnow0517/StarRail-gacha>DancingSnow0517/StarRail-gacha</a></li><li><a href=https://github.com/exaloop/codon>exaloop/codon</a><p>A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support</p></li><li><a href=https://github.com/Scighost/Starward>Scighost/Starward</a><p>Game Launcher for miHoYo - 米家游戏启动器</p></li></ul>
+<ul><li><a href=https://github.com/inttter/md-badges>inttter/md-badges</a><p>An extensive list of Shields.io badges.</p></li><li><a href=https://github.com/xingpingcn/enhanced-FaaS-in-China>xingpingcn/enhanced-FaaS-in-China</a><p>提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆</p></li><li><a href=https://github.com/DancingSnow0517/StarRail-gacha>DancingSnow0517/StarRail-gacha</a></li><li><a href=https://github.com/Scighost/Starward>Scighost/Starward</a><p>Game Launcher for miHoYo - 米家游戏启动器</p></li><li><a href=https://github.com/Andrews54757/itemscroller-crafting-fix>Andrews54757/itemscroller-crafting-fix</a><p>Modified version of Masa's itemscroller mod that fixes crafting in 1.17.1 (and adds crafting toggle ability)</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/19/26, 5:36 PM<br>下一次刷新：10/19/26, 9:36 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/20/26, 2:22 AM<br>下一次刷新：10/20/26, 6:22 AM</p>
