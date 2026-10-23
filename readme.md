@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/QuickBackupMultiMod-Dev/QuickBackupM-Fabric>QuickBackupMultiMod-Dev/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li><li><a href=https://github.com/exaloop/codon>exaloop/codon</a><p>A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support</p></li><li><a href=https://github.com/SkyDynamic/MaiproberPlus>SkyDynamic/MaiproberPlus</a><p>a app for manager maimai/chunithm (cn) score</p></li><li><a href=https://github.com/dragonwell-project/dragonwell17>dragonwell-project/dragonwell17</a><p>Alibaba Dragonwell17 JDK</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li></ul>
+<ul><li><a href=https://github.com/inttter/md-badges>inttter/md-badges</a><p>An extensive list of Shields.io badges.</p></li><li><a href=https://github.com/DoodleBears/blivechat>DoodleBears/blivechat</a><p>用于OBS的仿YouTube风格的bilibili直播评论栏</p></li><li><a href=https://github.com/Scighost/Starward>Scighost/Starward</a><p>Game Launcher for miHoYo - 米家游戏启动器</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/QuickBackupMultiMod-Dev/QuickBackupM-Fabric>QuickBackupMultiMod-Dev/QuickBackupM-Fabric</a><p>A backup / restore mod, with multiple backup slots</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/23/26, 6:58 AM<br>下一次刷新：10/23/26, 10:58 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/23/26, 11:32 AM<br>下一次刷新：10/23/26, 3:32 PM</p>
