@@ -46,7 +46,7 @@ Hello ~ I am SkyDynamic. A full time developer(maybe?). Nice to meet you!
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/MCDReforged/MCDReforged target=_blank><b>MCDReforged/MCDReforged</b></a> <a href=https://mcdreforged.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MCDReforged/MCDReforged?style=flat-square&labelColor=343b41"></td><td>3/31/2020</td><td>10/22/2026</td></tr><tr><td><a href=https://github.com/nonebot/nonebot2 target=_blank><b>nonebot/nonebot2</b></a> <a href=https://nonebot.dev target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&labelColor=343b41"></td><td>8/23/2020</td><td>10/23/2026</td></tr><tr><td><a href=https://github.com/FabricMC/fabric-api target=_blank><b>FabricMC/fabric-api</b></a> <a href=https://fabricmc.net/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FabricMC/fabric-api?style=flat-square&labelColor=343b41"></td><td>11/4/2018</td><td>10/23/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/nonebot/nonebot2 target=_blank><b>nonebot/nonebot2</b></a> <a href=https://nonebot.dev target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&labelColor=343b41"></td><td>8/23/2020</td><td>10/23/2026</td></tr><tr><td><a href=https://github.com/FabricMC/fabric-api target=_blank><b>FabricMC/fabric-api</b></a> <a href=https://fabricmc.net/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FabricMC/fabric-api?style=flat-square&labelColor=343b41"></td><td>11/4/2018</td><td>10/23/2026</td></tr><tr><td><a href=https://github.com/MCDReforged/MCDReforged target=_blank><b>MCDReforged/MCDReforged</b></a> <a href=https://mcdreforged.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MCDReforged/MCDReforged?style=flat-square&labelColor=343b41"></td><td>3/31/2020</td><td>10/22/2026</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/dragonwell-project/dragonwell17>dragonwell-project/dragonwell17</a><p>Alibaba Dragonwell17 JDK</p></li><li><a href=https://github.com/luoyily/MoeTTS>luoyily/MoeTTS</a><p>Speech synthesis model /inference GUI repo for galgame characters based on Tacotron2, Hifigan, VITS and Diff-svc</p></li><li><a href=https://github.com/Fallen-Breath/litematica-server-paster>Fallen-Breath/litematica-server-paster</a><p>Let Litematica be able to paste tile entity data of block / entity data in a server</p></li><li><a href=https://github.com/Andrews54757/itemscroller-crafting-fix>Andrews54757/itemscroller-crafting-fix</a><p>Modified version of Masa's itemscroller mod that fixes crafting in 1.17.1 (and adds crafting toggle ability)</p></li><li><a href=https://github.com/kaniol-lck/modmanager>kaniol-lck/modmanager</a><p>A Qt-based mod manager for minecraft.</p></li></ul>
+<ul><li><a href=https://github.com/SkyDynamic/MaiproberPlus>SkyDynamic/MaiproberPlus</a><p>a app for manager maimai/chunithm (cn) score</p></li><li><a href=https://github.com/Meloong-Git/PCL>Meloong-Git/PCL</a><p>Minecraft 启动器 Plain Craft Launcher（PCL）。</p></li><li><a href=https://github.com/luoyily/MoeTTS>luoyily/MoeTTS</a><p>Speech synthesis model /inference GUI repo for galgame characters based on Tacotron2, Hifigan, VITS and Diff-svc</p></li><li><a href=https://github.com/exaloop/codon>exaloop/codon</a><p>A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support</p></li><li><a href=https://github.com/inttter/md-badges>inttter/md-badges</a><p>An extensive list of Shields.io badges.</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/24/26, 6:54 AM<br>下一次刷新：10/24/26, 10:54 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/24/26, 11:26 AM<br>下一次刷新：10/24/26, 3:26 PM</p>
