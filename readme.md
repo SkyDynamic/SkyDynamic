@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Scighost/Starward>Scighost/Starward</a><p>Game Launcher for miHoYo - 米家游戏启动器</p></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/DancingSnow0517/StarRail-gacha>DancingSnow0517/StarRail-gacha</a></li><li><a href=https://github.com/Fallen-Breath/litematica-server-paster>Fallen-Breath/litematica-server-paster</a><p>Let Litematica be able to paste tile entity data of block / entity data in a server</p></li><li><a href=https://github.com/Meloong-Git/PCL>Meloong-Git/PCL</a><p>Minecraft 启动器 Plain Craft Launcher（PCL）。</p></li></ul>
+<ul><li><a href=https://github.com/inttter/md-badges>inttter/md-badges</a><p>An extensive list of Shields.io badges.</p></li><li><a href=https://github.com/DoodleBears/blivechat>DoodleBears/blivechat</a><p>用于OBS的仿YouTube风格的bilibili直播评论栏</p></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li><li><a href=https://github.com/Meloong-Git/PCL>Meloong-Git/PCL</a><p>Minecraft 启动器 Plain Craft Launcher（PCL）。</p></li><li><a href=https://github.com/SkyDynamic/MaiproberPlus>SkyDynamic/MaiproberPlus</a><p>a app for manager maimai/chunithm (cn) score</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/25/26, 6:14 AM<br>下一次刷新：10/25/26, 10:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/25/26, 11:22 AM<br>下一次刷新：10/25/26, 3:22 PM</p>
