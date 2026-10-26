@@ -46,7 +46,7 @@ Hello ~ I am SkyDynamic. A full time developer(maybe?). Nice to meet you!
 
 **Some toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/FabricMC/fabric-api target=_blank><b>FabricMC/fabric-api</b></a> <a href=https://fabricmc.net/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FabricMC/fabric-api?style=flat-square&labelColor=343b41"></td><td>11/4/2018</td><td>10/24/2026</td></tr><tr><td><a href=https://github.com/nonebot/nonebot2 target=_blank><b>nonebot/nonebot2</b></a> <a href=https://nonebot.dev target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&labelColor=343b41"></td><td>8/23/2020</td><td>10/23/2026</td></tr><tr><td><a href=https://github.com/MCDReforged/MCDReforged target=_blank><b>MCDReforged/MCDReforged</b></a> <a href=https://mcdreforged.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MCDReforged/MCDReforged?style=flat-square&labelColor=343b41"></td><td>3/31/2020</td><td>10/25/2026</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/nonebot/nonebot2 target=_blank><b>nonebot/nonebot2</b></a> <a href=https://nonebot.dev target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/nonebot/nonebot2?style=flat-square&labelColor=343b41"></td><td>8/23/2020</td><td>10/26/2026</td></tr><tr><td><a href=https://github.com/MCDReforged/MCDReforged target=_blank><b>MCDReforged/MCDReforged</b></a> <a href=https://mcdreforged.com target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/MCDReforged/MCDReforged?style=flat-square&labelColor=343b41"></td><td>3/31/2020</td><td>10/25/2026</td></tr><tr><td><a href=https://github.com/FabricMC/fabric-api target=_blank><b>FabricMC/fabric-api</b></a> <a href=https://fabricmc.net/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/FabricMC/fabric-api?style=flat-square&labelColor=343b41"></td><td>11/4/2018</td><td>10/24/2026</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/SkyDynamic/MaiproberPlus>SkyDynamic/MaiproberPlus</a><p>a app for manager maimai/chunithm (cn) score</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li><li><a href=https://github.com/zanjie1999/meDisplay>zanjie1999/meDisplay</a><p>使用任何设备(浏览器)作为mac的副屏(随航) 将Android平板用作Mac的第二台显示器 还能在Win和Linux镜像屏幕</p></li></ul>
+<ul><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/xingpingcn/enhanced-FaaS-in-China>xingpingcn/enhanced-FaaS-in-China</a><p>提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆</p></li><li><a href=https://github.com/Meloong-Git/PCL>Meloong-Git/PCL</a><p>Minecraft 启动器 Plain Craft Launcher（PCL）。</p></li><li><a href=https://github.com/inttter/md-badges>inttter/md-badges</a><p>An extensive list of Shields.io badges.</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/26/26, 11:24 AM<br>下一次刷新：10/26/26, 3:24 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：10/27/26, 2:17 AM<br>下一次刷新：10/27/26, 6:17 AM</p>
