@@ -59,7 +59,7 @@ recent_posts_inject
 
 **Starred**
 
-<ul><li><a href=https://github.com/Fallen-Breath/litematica-server-paster>Fallen-Breath/litematica-server-paster</a><p>Let Litematica be able to paste tile entity data of block / entity data in a server</p></li><li><a href=https://github.com/dragonwell-project/dragonwell17>dragonwell-project/dragonwell17</a><p>Alibaba Dragonwell17 JDK</p></li><li><a href=https://github.com/the1812/Bilibili-Evolved>the1812/Bilibili-Evolved</a><p>强大的哔哩哔哩增强脚本</p></li><li><a href=https://github.com/exaloop/codon>exaloop/codon</a><p>A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support</p></li><li><a href=https://github.com/Platane/snk>Platane/snk</a><p>🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif</p></li></ul>
+<ul><li><a href=https://github.com/xingpingcn/enhanced-FaaS-in-China>xingpingcn/enhanced-FaaS-in-China</a><p>提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆</p></li><li><a href=https://github.com/dragonwell-project/dragonwell17>dragonwell-project/dragonwell17</a><p>Alibaba Dragonwell17 JDK</p></li><li><a href=https://github.com/DancingSnow0517/StarRail-gacha>DancingSnow0517/StarRail-gacha</a></li><li><a href=https://github.com/xmexg/xyks>xmexg/xyks</a><p>小猿口算逆向笔记 (已实现纯协议答题模板)</p></li><li><a href=https://github.com/SkyDynamic/MaiproberPlus>SkyDynamic/MaiproberPlus</a><p>a app for manager maimai/chunithm (cn) score</p></li></ul>
 
 **Can you find me?**
 
@@ -70,4 +70,4 @@ recent_posts_inject
 ------------
 
 <p align=center><strong> Stay hungry, Stay foolish. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：11/26/26, 4:00 PM<br>下一次刷新：11/26/26, 8:00 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 4 小时</b>自动刷新生成！ <b>设计参考为 Wibus 和 MoeCinnamo , Thanks.</b><br>刷新于：11/27/26, 2:20 AM<br>下一次刷新：11/27/26, 6:20 AM</p>
